@@ -360,6 +360,34 @@ loginForm.addEventListener("submit", function (e) {
 
 ---
 
+## Capturas de Pantalla — Consola Mostrando Resultados
+
+### validarCorreo
+![Validar Correo](img/validarCorreo.png)
+
+### soloLetras
+![Solo Letras](img/validarSoloLetras.png)
+
+### validarLongitud
+![Validar Longitud](img/validarLongitud.png)
+
+### calcularEdad
+![Calcular Edad](img/calcularEdad.png)
+
+### esMayorDeEdad
+![Es Mayor de Edad](img/esMayorEdad.png)
+
+### validarPassword
+![Validar Password](img/validarPassword.png)
+
+### validarTelefono
+![Validar Teléfono](img/validarTelefono.png)
+
+### formatearNombrePropio
+![Formatear Nombre Propio](img/formatearNombrePropio.png)
+
+---
+
 ## Tecnologías
 
 - **HTML5** — Estructura semántica
