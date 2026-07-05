@@ -396,6 +396,10 @@ loginForm.addEventListener("submit", function (e) {
 
 ---
 
+## Link al video
+
+https://youtube.com/shorts/6GjhcfE6B1s?feature=share
+
 ## Autor
 
 **Sánchez Chávez Edwin Noé**
